@@ -14,7 +14,7 @@ The analysis explores how economic, social, and political factors such as GDP pe
 ## 🔍 What’s Inside the Notebook?
 
 ### 1. **Data Loading & Inspection**
-- The dataset (`WorldHappinessReport.csv`) is loaded using `pandas`.
+- The datasets are loaded using `pandas`.
 - Initial inspection shows columns like:
   - `Country`, `Region`, `Happiness Rank`, `Happiness Score`
   - Economic, health, family, freedom, generosity, and trust metrics
